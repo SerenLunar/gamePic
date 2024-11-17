@@ -1,0 +1,31 @@
+C:\Users\student\source\repos\gamePic\gamePic\bin\Debug\gamePic.exe.config
+C:\Users\student\source\repos\gamePic\gamePic\bin\Debug\gamePic.exe
+C:\Users\student\source\repos\gamePic\gamePic\bin\Debug\gamePic.pdb
+C:\Users\student\source\repos\gamePic\gamePic\obj\Debug\gamePic.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\gamePic\gamePic\obj\Debug\gamePic.Form1.resources
+C:\Users\student\source\repos\gamePic\gamePic\obj\Debug\gamePic.Properties.Resources.resources
+C:\Users\student\source\repos\gamePic\gamePic\obj\Debug\gamePic.csproj.GenerateResource.cache
+C:\Users\student\source\repos\gamePic\gamePic\obj\Debug\gamePic.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\gamePic\gamePic\obj\Debug\gamePic.exe
+C:\Users\student\source\repos\gamePic\gamePic\obj\Debug\gamePic.pdb
+E:\gamePic\gamePic\bin\Debug\gamePic.exe.config
+E:\gamePic\gamePic\bin\Debug\gamePic.exe
+E:\gamePic\gamePic\bin\Debug\gamePic.pdb
+E:\gamePic\gamePic\obj\Debug\gamePic.csproj.AssemblyReference.cache
+E:\gamePic\gamePic\obj\Debug\gamePic.csproj.SuggestedBindingRedirects.cache
+E:\gamePic\gamePic\obj\Debug\gamePic.Form1.resources
+E:\gamePic\gamePic\obj\Debug\gamePic.Properties.Resources.resources
+E:\gamePic\gamePic\obj\Debug\gamePic.csproj.GenerateResource.cache
+E:\gamePic\gamePic\obj\Debug\gamePic.csproj.CoreCompileInputs.cache
+E:\gamePic\gamePic\obj\Debug\gamePic.exe
+E:\gamePic\gamePic\obj\Debug\gamePic.pdb
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\gamePic\gamePic\bin\Debug\gamePic.exe.config
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\gamePic\gamePic\bin\Debug\gamePic.exe
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\gamePic\gamePic\bin\Debug\gamePic.pdb
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\gamePic\gamePic\obj\Debug\gamePic.csproj.AssemblyReference.cache
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\gamePic\gamePic\obj\Debug\gamePic.Form1.resources
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\gamePic\gamePic\obj\Debug\gamePic.Properties.Resources.resources
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\gamePic\gamePic\obj\Debug\gamePic.csproj.GenerateResource.cache
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\gamePic\gamePic\obj\Debug\gamePic.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\gamePic\gamePic\obj\Debug\gamePic.exe
+C:\Users\user\Documents\mine\NAA\III kurs\I semestr\C#\gamePic\gamePic\obj\Debug\gamePic.pdb

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\mine\\NAA\\III kurs\\I semestr\\C#\\gamePic\\gamePic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55B6B9BD-3F61-415A-BD79-BD09A985A856}|gamePic\\gamePic.csproj|c:\\users\\user\\documents\\mine\\naa\\iii kurs\\i semestr\\c#\\gamepic\\gamepic\\gamepic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B6B9BD-3F61-415A-BD79-BD09A985A856}|gamePic\\gamePic.csproj|solutionrelative:gamepic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B6B9BD-3F61-415A-BD79-BD09A985A856}|gamePic\\gamePic.csproj|c:\\users\\user\\documents\\mine\\naa\\iii kurs\\i semestr\\c#\\gamepic\\gamepic\\gamepic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55B6B9BD-3F61-415A-BD79-BD09A985A856}|gamePic\\gamePic.csproj|solutionrelative:gamepic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\mine\\NAA\\III kurs\\I semestr\\C#\\gamePic\\gamePic\\gamePic\\Form1.cs",
+              "RelativeDocumentMoniker": "gamePic\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\mine\\NAA\\III kurs\\I semestr\\C#\\gamePic\\gamePic\\gamePic\\Form1.cs*",
+              "RelativeToolTip": "gamePic\\Form1.cs*",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAawHAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:52:21.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\mine\\NAA\\III kurs\\I semestr\\C#\\gamePic\\gamePic\\gamePic\\Form1.cs",
+              "RelativeDocumentMoniker": "gamePic\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\mine\\NAA\\III kurs\\I semestr\\C#\\gamePic\\gamePic\\gamePic\\Form1.cs [Design]*",
+              "RelativeToolTip": "gamePic\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:52:12.194Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
